@@ -10,6 +10,8 @@ namespace Empleado
     {
         static void Main(string[] args)
         {
+            Console.Clear();
+            Console.ReadLine();
         }
     }
 }
